@@ -50,9 +50,6 @@ TARGET_SCREEN_WIDTH := 540
 #BOARD_VENDOR_QCOM_GPS_LOC_API_AMSS_VERSION := 50000
 #BOARD_VENDOR_QCOM_GPS_LOC_API_HARDWARE := ville
 
-# Lights
-TARGET_PROVIDES_LIBLIGHTS := true
-
 # Wifi
 WIFI_DRIVER_MODULE_NAME          := prima_wlan
 WIFI_DRIVER_MODULE_PATH          := "/system/lib/modules/prima_wlan.ko"
